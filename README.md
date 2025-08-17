@@ -17,10 +17,11 @@ Here is a simple overview of the basic principles and science behind DNA extract
 DNA extraction is the process of isolating DNA from cells or tissues. In plants, this involves:
 1. **Sample homogenization and cell lysis** – breaking the tough plant cell wall (often using grinding with liquid nitrogen or bead beating), and using detergents and buffers to dissolve cell membranes and release DNA into solution (lysis).
 2. **Removal of contaminants** – separating DNA from proteins, polysaccharides, and other cellular components (centrifugation).
-4. **DNA precipitation/binding and cleaning** – capturing DNA on a solid support (e.g., silica column) or with alcohol precipitation.
-5. **Elution** – washing and releasing purified DNA into a clean solution for downstream applications. Then concentration of DNA and purity are measured.
-6. **Storage** - Store DNA at **–20 °C** for long-term use or **4 °C** for short-term use.
+3. **DNA precipitation/binding and cleaning** – capturing DNA on a solid support (e.g., silica column) or with alcohol precipitation.
+4. **Elution** – washing and releasing purified DNA into a clean solution for downstream applications. Then concentration of DNA and purity are measured.
+5. **Storage** - Store DNA at **–20 °C** for long-term use or **4 °C** for short-term use.
 
+![DNA Extraction Workflow](DNA_extraction.jpg)
 
 ---
 
