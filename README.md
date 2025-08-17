@@ -9,16 +9,16 @@
 
 ## 1. Basic Principles of DNA Extraction
 
+DNA (DeoxyriboNucleic Acid) or RNA (RiboNucleic Acid) extraction process basically a process that involves disruption of tissue to and breaking of the cell wall, cell and nuclear membranes to release the DNA/RNA and then isolating the nucleic acid from the rest of the unwanted cell debris. 
 
 We are using the **Qiagen DNeasy Plant Pro Kit** and a **modified CTAB protocol** to extract genomic DNA from plant tissues.  
 Here is a simple overview of the basic principles and science behind DNA extraction:
 
 DNA extraction is the process of isolating DNA from cells or tissues. In plants, this involves:
-1. **Cell disruption** – breaking the tough plant cell wall (often using grinding with liquid nitrogen or bead beating).
-2. **Lysis** – using detergents and buffers to dissolve cell membranes and release DNA into solution.
-3. **Removal of contaminants** – separating DNA from proteins, polysaccharides, and other cellular components.
-4. **DNA precipitation/binding** – capturing DNA on a solid support (e.g., silica column) or with alcohol precipitation.
-5. **Elution** – washing and releasing purified DNA into a clean solution for downstream applications.
+1. **Sample homogenization and cell lysis** – breaking the tough plant cell wall (often using grinding with liquid nitrogen or bead beating), and using detergents and buffers to dissolve cell membranes and release DNA into solution (lysis).
+2. **Removal of contaminants** – separating DNA from proteins, polysaccharides, and other cellular components (centrifugation).
+4. **DNA precipitation/binding and cleaning** – capturing DNA on a solid support (e.g., silica column) or with alcohol precipitation.
+5. **Elution** – washing and releasing purified DNA into a clean solution for downstream applications. Then concentration of DNA and purity are measured.
 6. **Storage** - Store DNA at **–20 °C** for long-term use or **4 °C** for short-term use.
 
 
